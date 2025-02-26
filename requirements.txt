@@ -4,3 +4,4 @@ langchain
 openai
 langchain_groq
 langchain_openai
+langchain_core
